@@ -30,4 +30,6 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  che.camel.processor.idempotent.jdbc,org.osgi.service.blueprint
 Origin-Bundle-Name: iflow2
 Origin-Bundle-SymbolicName: iflow2
+Origin-Bundle-Version: 1.0.0
+Origin-ModifiedDate: 1784735952688
 
