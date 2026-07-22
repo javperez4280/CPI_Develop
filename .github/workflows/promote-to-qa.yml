@@ -3,7 +3,7 @@ name: Transformar iFlows para QA
 on:
   push:
     branches:
-      - qa
+      - Calidad
   workflow_dispatch:
 
 permissions:
