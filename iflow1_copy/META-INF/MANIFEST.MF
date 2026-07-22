@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: iflow1_copy
 Bundle-SymbolicName: iflow1_copy
-Bundle-Version: 1.0.4
+Bundle-Version: 1.0.3
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
